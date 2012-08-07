@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D8F1251215D0983C00AA846F /* Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Protocol.h; sourceTree = "<group>"; };
 		D8F2EE3013E8B0D8002E16B6 /* TrackMix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrackMix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8F2EE3413E8B0D8002E16B6 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		D8F2EE3713E8B0D8002E16B6 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -87,6 +88,7 @@
 			children = (
 				D8F2EE5113E8BB4A002E16B6 /* Track.h */,
 				D8F2EE5213E8BB4A002E16B6 /* Track.m */,
+				D8F1251215D0983C00AA846F /* Protocol.h */,
 				D8F2EE4613E8B0D8002E16B6 /* TrackMixAppDelegate.h */,
 				D8F2EE4713E8B0D8002E16B6 /* TrackMixAppDelegate.m */,
 				D8F2EE4913E8B0D8002E16B6 /* MainMenu.xib */,
@@ -289,6 +291,7 @@
 				D8F2EE5013E8B0D8002E16B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
